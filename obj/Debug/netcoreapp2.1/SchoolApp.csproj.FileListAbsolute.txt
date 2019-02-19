@@ -1,0 +1,11 @@
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp2.1\SchoolApp.deps.json
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp2.1\SchoolApp.runtimeconfig.json
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp2.1\SchoolApp.runtimeconfig.dev.json
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp2.1\SchoolApp.dll
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp2.1\SchoolApp.pdb
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp2.1\SchoolApp.csprojAssemblyReference.cache
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp2.1\SchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp2.1\SchoolApp.AssemblyInfoInputs.cache
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp2.1\SchoolApp.AssemblyInfo.cs
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp2.1\SchoolApp.dll
+C:\Users\u752221\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp2.1\SchoolApp.pdb
